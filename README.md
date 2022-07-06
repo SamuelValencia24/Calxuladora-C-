@@ -1,3 +1,3 @@
-# Calxuladora
+# Calculadora
 
 Calculadora feita m C#
